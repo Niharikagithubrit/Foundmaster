@@ -1,0 +1,254 @@
+@media only screen and (max-width: 480px) {
+.logo-section .contact {
+    text-align: center;
+}
+.logo {
+    text-align: left;
+    display: none;
+}
+
+.logo-section .contact a {
+    line-height: 1.7;
+}
+.logo-section .contact a i {
+    margin-right: 2px;
+}
+h3.media-logo {
+    display: block;
+    margin-top: 5px;
+}
+.contact {
+    display: block;
+}
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+    justify-content: center;
+}
+.blog_banner_text {
+    margin-bottom: 20px;
+}
+.contact {
+    text-align: end !important;
+}
+.contact p {
+    margin-bottom: 3px;
+    font-size: 11px;
+}
+.career_img {
+    margin-bottom: 20px;
+}
+.career_section .container {
+    margin-top: 7px;
+}
+.navbar-fixed-top.scrolled .responsive-logo {
+    color: #fff !Important;
+    margin-top:10px;
+}
+.navbar-expand-sm {
+    display:block;
+}
+h3.media-logo a {
+    text-decoration: none;
+}
+.navbar-dark .navbar-toggler {
+    background: black;
+    float: right;
+}
+.media-menu {
+    padding: 0px 10px;
+}
+.our_features_section .container {
+    width: 100%;
+}
+.feature_name h3:after {
+    display:none;
+    width:100%;
+}
+.feature_name h3:before {
+    display:none;
+    width:100%;
+}
+.home_image img {
+    width: 100%;
+}
+.slider_section .carousel-inner {
+    height: 100%;
+}
+.carousel-control-next, .carousel-control-prev {
+    display:none;
+}
+.carousel-control-next, .carousel-control-next {
+    display:none;
+}
+.slider_section .carousel-caption {
+    bottom: 1.3rem;
+}
+.carousel-caption h3 {
+    font-size: 13px;
+}
+.carousel-caption p {
+    font-size: 10px;
+}
+.home_des_img {
+    padding: 20px 0px;
+}
+.home_description {
+    padding: 10px;
+}
+.home_description h1 {
+    font-size: 16px;
+}
+.home_description p {
+    font-size: 14px;
+}
+.feature_name {
+    margin-bottom: 18px;
+}
+.feature_name h3 {
+    font-size: 20px;
+}
+.heading {
+    font-size: 20px;
+    margin-bottom:33px;
+}
+.column_desc {
+    padding: 9px 20px 9px;
+    text-align: justify;
+    margin-bottom: 18px;
+}
+.testimonial4_slide p {
+    font-size: 11px;
+    margin: 20px 0 20px 0;
+}
+.testimonial4_slide h4 {
+    font-size: 14px;
+}
+.testimonial .carousel {
+    padding-bottom: 0px;
+}
+.testimonial {
+    padding-bottom: 7px;
+}
+.footer_menu {
+    justify-content: center;
+}
+.footer_logo {
+    text-align: center;
+}
+.column_one {
+    margin-bottom: 0px;
+    height: auto;
+}
+.copyright p {
+    font-size: 11px;
+}
+.footer_contact_details p {
+    font-size: 11px;
+}
+.footer_section {
+    padding: 16px 0px 0px;
+}
+.footer_icon ul li {
+    margin-right: 14px;
+}
+.service_column {
+    padding: 0px 0px;
+}
+.service_desc {
+    height: auto;
+    margin-bottom: 20px;
+}
+.service_desc h5 {
+    font-size: 21px;
+}
+.service_desc p {
+    font-size: 11px;
+}
+.banner_text h1 {
+    font-size: 33px;
+}
+.about_banner_text h1 {
+    font-size: 33px;
+}
+.about_desc h5 {
+    font-size: 21px;
+    text-align: left;
+}
+.about_desc p {
+    font-size: 11px;
+}
+.past_banner_text h1 {
+    font-size: 33px;
+}
+.career_banner_text h1 {
+    font-size: 33px;
+}
+.career_desc h3 {
+    font-size: 16px;
+}
+.career_desc p {
+    font-size: 12px;
+}
+.blog_desc {
+    padding: 25px;
+    margin-bottom: 20px;
+}
+.blog_desc h5 {
+    font-size: 21px;
+}
+.blog_desc p {
+    font-size: 14px;
+}
+.blog_img {
+    text-align: center;
+}
+.blog_banner_text h1 {
+    font-size: 33px;
+}
+.blog_column {
+    padding: 11px 0px;
+}
+.contact_banner_text h1 {
+    font-size: 33px;
+}
+.contact_fill {
+    margin-left: 0px;
+    margin-bottom: 20px;
+}
+.social_contact {
+    margin-left: 0px;
+}
+.social_contact span {
+    margin-right: 1px;
+    font-size: 11px;
+}
+.social_contact p {
+    font-size: 10px;
+}
+.contact_section .social_contact i {
+    margin-right: 5px;
+}
+.social_contact {
+    padding: 20px 11px 20px;
+    height: auto;
+}
+.contact_section {
+    padding: 33px 0px;
+}
+.performance_table {
+    overflow-x: scroll;
+}
+.past_options {
+    display: block;
+}
+.past_options .boxes {
+    margin-right: 0px;
+    display: grid;
+    margin-bottom: 20px;
+}
+.past_heading h1 {
+    font-size: 16px;
+}
+.column_desc h5 {
+    font-size: 16px;
+}
+}
